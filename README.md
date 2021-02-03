@@ -1,1 +1,1 @@
-# MazeGeneration-MiniGame
+# MazeGenerationMiniGame
